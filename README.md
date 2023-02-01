@@ -1,0 +1,1 @@
+# OgrenciNotSistemi.www.patika.dev
